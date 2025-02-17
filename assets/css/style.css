@@ -1,0 +1,12 @@
+:root{
+    --primary-color: #F5F3F2;
+    --secondary-color: #DDBF06;
+    --ternary-color: #F8F4E8;
+    --black-light: #393330;
+    --serif-fonts: 'Fraunces 72pt Soft';
+    --sans-serif-fonts: 'Manrope';
+}
+/* Header */
+header{
+    font-family: var(--serif-fonts);
+}

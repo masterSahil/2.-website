@@ -1,0 +1,234 @@
+@font-face {
+    font-family: 'Fraunces 72pt Soft';
+    src: url('../fonts/Fraunces72ptSoft-Thin.woff2') format('woff2'),
+        url('../fonts/Fraunces72ptSoft-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 72pt';
+    src: url('../fonts/Fraunces72pt-Black.woff2') format('woff2'),
+        url('../fonts/Fraunces72pt-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 72pt';
+    src: url('../fonts/Fraunces72pt-Bold.woff2') format('woff2'),
+        url('../fonts/Fraunces72pt-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 72pt';
+    src: url('../fonts/Fraunces72pt-Regular.woff2') format('woff2'),
+        url('../fonts/Fraunces72pt-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 72pt';
+    src: url('../fonts/Fraunces72pt-Thin.woff2') format('woff2'),
+        url('../fonts/Fraunces72pt-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 9pt';
+    src: url('../fonts/Fraunces9pt-Black.woff2') format('woff2'),
+        url('../fonts/Fraunces9pt-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 9pt';
+    src: url('../fonts/Fraunces9pt-Bold.woff2') format('woff2'),
+        url('../fonts/Fraunces9pt-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 9pt';
+    src: url('../fonts/Fraunces9pt-Light.woff2') format('woff2'),
+        url('../fonts/Fraunces9pt-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 9pt Soft';
+    src: url('../fonts/Fraunces9ptSoft-Light.woff2') format('woff2'),
+        url('../fonts/Fraunces9ptSoft-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 9pt';
+    src: url('../fonts/Fraunces9pt-Thin.woff2') format('woff2'),
+        url('../fonts/Fraunces9pt-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 9pt';
+    src: url('../fonts/Fraunces9pt-SemiBold.woff2') format('woff2'),
+        url('../fonts/Fraunces9pt-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 9pt SuperSoft';
+    src: url('../fonts/Fraunces9ptSuperSoft-Bold.woff2') format('woff2'),
+        url('../fonts/Fraunces9ptSuperSoft-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 9pt SuperSoft';
+    src: url('../fonts/Fraunces9ptSuperSoft-Black.woff2') format('woff2'),
+        url('../fonts/Fraunces9ptSuperSoft-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 72pt Soft';
+    src: url('../fonts/Fraunces72ptSoft-Bold.woff2') format('woff2'),
+        url('../fonts/Fraunces72ptSoft-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 9pt SuperSoft';
+    src: url('../fonts/Fraunces9ptSuperSoft-Thin.woff2') format('woff2'),
+        url('../fonts/Fraunces9ptSuperSoft-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 9pt';
+    src: url('../fonts/Fraunces9pt-Regular.woff2') format('woff2'),
+        url('../fonts/Fraunces9pt-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 72pt Soft';
+    src: url('../fonts/Fraunces72ptSoft-Regular.woff2') format('woff2'),
+        url('../fonts/Fraunces72ptSoft-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 72pt Soft';
+    src: url('../fonts/Fraunces72ptSoft-Light.woff2') format('woff2'),
+        url('../fonts/Fraunces72ptSoft-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces 72pt Soft';
+    src: url('../fonts/Fraunces72ptSoft-SemiBold.woff2') format('woff2'),
+        url('../fonts/Fraunces72ptSoft-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../fonts/Manrope-Bold.woff2') format('woff2'),
+        url('../fonts/Manrope-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../fonts/Manrope-ExtraBold.woff2') format('woff2'),
+        url('../fonts/Manrope-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../fonts/Manrope-SemiBold.woff2') format('woff2'),
+        url('../fonts/Manrope-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../fonts/Manrope-Regular.woff2') format('woff2'),
+        url('../fonts/Manrope-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../fonts/Manrope-ExtraLight.woff2') format('woff2'),
+        url('../fonts/Manrope-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../fonts/Manrope-Light.woff2') format('woff2'),
+        url('../fonts/Manrope-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../fonts/Manrope-Medium.woff2') format('woff2'),
+        url('../fonts/Manrope-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
